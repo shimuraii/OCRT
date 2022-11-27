@@ -1,3 +1,6 @@
+Download and or view the Project app in android studio
+https://drive.google.com/drive/folders/1N4TgAwPpYav8NAaRMtHxtuF5bKjEbHZP?usp=sharing
+
 Introduction
 
 I am Gustavo Kang Shim. Currently a 3rd year student in Computer Science at Thompson Rivers University.
